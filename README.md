@@ -3,7 +3,7 @@
 It consists of 3 rounds: 1. discussing with Engineering Director, 2. 1 DSA question 3. System Design
 
 ## Discussing with Engineering Director
-The director asked about your knowledge about CAP theorm, Cassandra, DB indexing, service communication (REST), fault-handling on services (retry mechanism with backoff).
+The director asked about CAP theorm, Cassandra, DB indexing, service communication (REST), fault-handling on services (retry mechanism with backoff).
 
 ## DSA Question
 1-hour Leetcode-style coding session
